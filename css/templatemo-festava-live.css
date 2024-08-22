@@ -385,7 +385,7 @@ strong {
 .navbar-brand,
 .navbar-brand:hover {
   color: var(--white-color);
-  font-size: var(--h5-font-size);
+  font-size: 20px;
   font-weight: var(--font-weight-bold);
 }
 
